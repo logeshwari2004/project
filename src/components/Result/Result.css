@@ -1,0 +1,27 @@
+.result-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .result-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .score {
+    font-size: 20px;
+    color: #4caf50;
+  }
+  
+  .summary {
+    margin: 20px 0;
+  }
+  
+  .summary-item {
+    margin: 10px 0;
+  }
+  
